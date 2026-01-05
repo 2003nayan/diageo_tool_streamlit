@@ -1,0 +1,6 @@
+# Data files - not tracked in git (contains sensitive data)
+# Add your data files to this directory
+
+*.csv
+*.xlsx
+*.xls
